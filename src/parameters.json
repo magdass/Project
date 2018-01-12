@@ -2,5 +2,13 @@
     "DIRECTORIES": {
     "DATA_DIR": "../../DATA",
     "TMP_DIR" : "../../tmp"
-    }
+    },
+    "FILES": {
+        "PRICE_FILE": "prices.p",
+        "STATION_FILE": "stations.p",
+        "SERVICE_FILE": "services.p"
+    },
+        "DATABASE":{
+        "GAS_DB": "gas_db.p"
+}
 }
