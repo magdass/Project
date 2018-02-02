@@ -1,7 +1,7 @@
 {
     "DIRECTORIES": {
-    "DATA_DIR": "../../DATA",
-    "TMP_DIR" : "../../tmp"
+        "DATA_DIR": "../../DATA",
+        "TMP_DIR" : "../../tmp"
     },
     "FILES": {
         "PRICE_FILE": "prices.p",
